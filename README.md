@@ -55,3 +55,5 @@ Las soluciones presentadas permiten comparar distintas maneras de abordar los pr
 
 ## 🎯 Conclusión
 Kotlin es un lenguaje moderno y eficiente. A través de este Playground, aprendiste a ejecutar código, corregir errores y mejorar tu lógica de programación. ¡Sigue practicando y explorando nuevas posibilidades! 🚀
+![image](https://github.com/user-attachments/assets/c32084d1-3be6-43d8-bc83-3361e8615cbb)
+

@@ -2,6 +2,7 @@ package com.example.primerprogramakotlin
 
 fun main(){
 
+    println("Hello World")
     ejercicios()
 }
 
